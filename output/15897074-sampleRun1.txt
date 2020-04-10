@@ -1,0 +1,262 @@
+Initialising game map -- number of rooms: 8
+-------------------------------------------------------------
+Select a class:
+1. Computer Programmer
+2. Warrior
+Your choice? 1
+Now you are a Computer Programmer!
+-------------------------------------------------------------
+You are alone in a cold room. It is very silent...  
+There is a door labeled with the number  2
+There is a keyboard on the floor in front of you.
+Your health status: 750/750 (100%)
+Command? pickup keyboard
+-------------------------------------------------------------
+You found a keyboard! You can use it as a weapon, increasing your damage by 240%
+You are alone in a cold room. It is very silent...  
+There is a door labeled with the number  2
+Your health status: 750/750 (100%)
+Command? gelp
+'gelp' is not a valid in-game command!
+Command? help
+-------------------------------------------------------------
+At the moment, the following commands are available:
+OPEN n          open the door labeled n and enter the room
+PICKUP item     pick up an item in the room
+SEARCH          search the room to find the exit
+ROOMINFO        displays information about the current room
+SELFINFO        displays your current health, possessions and room number
+REST            have a rest and restore your health
+HELP            displays available commands in the current context
+
+Command? roominfo
+-------------------------------------------------------------
+You are alone in a cold room. It is very silent...  
+There is a door labeled with the number  2
+Your health status: 750/750 (100%)
+Command? open 2
+-------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+There is $158 of silver on the floor in front of you.
+Your health status: 750/750 (100%)
+
+A monster rushes towards you!
+Prepare for battle!
+Command? attack
+-------------------------------------------------------------
+Your weak sight prevents you from hitting the monster.
+The monster deals 86 damage points!
+You lose 11% Health. Your health status: 664/750 (89%)
+Command? attack
+-------------------------------------------------------------
+Your weak sight prevents you from hitting the monster.
+The monster deals 73 damage points!
+You lose 10% Health. Your health status: 592/750 (79%)
+Command? run
+-------------------------------------------------------------
+You run away through a randomly selected door!
+You are alone in a cold room. It is very silent...  
+There is a door labeled with the number  2
+Your health status: 592/750 (79%)
+Command? open 2
+-------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+There is $158 of silver on the floor in front of you.
+Your health status: 592/750 (79%)
+
+A monster rushes towards you!
+Prepare for battle!
+Command? attack
+-------------------------------------------------------------
+EGcp{(Au1#m@&Y?J =l}
+You struck the monster with your keyboard, dealing 161 damage points!
+The monster loses 63% Health. Monster's health status: 94/255 (37%)
+The monster deals 70 damage points!
+You lose 9% Health. Your health status: 522/750 (70%)
+Command? attack
+-------------------------------------------------------------
+n`gQ \2sO*93JQbqY>D 
+You struck the monster with your keyboard, dealing 130 damage points!
+The monster loses 37% Health. Monster's health status: 0/255 (0%)
+-------------------------------------------------------------
+The monster has been defeated!
+The monster drops $31 in silver
+Command? pickup silver
+-------------------------------------------------------------
+You pick up the silver, increasing your silver to $189
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+Your health status: 522/750 (70%)
+Command? open 3
+-------------------------------------------------------------
+Opening door 3
+The ceiling is low in this room and it feels warm.
+There is a door labeled with the number  2
+There is $352 of silver on the floor in front of you.
+There is a keyboard on the floor in front of you.
+Your health status: 522/750 (70%)
+Command? pickup silver
+-------------------------------------------------------------
+You pick up the silver, increasing your silver to $541
+The ceiling is low in this room and it feels warm.
+There is a door labeled with the number  2
+There is a keyboard on the floor in front of you.
+Your health status: 522/750 (70%)
+Command? open 2
+-------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+Your health status: 522/750 (70%)
+Command? open
+Invalid number of arguments. Please enter command 'open' followed by a space and one argument.
+Command? open 4
+-------------------------------------------------------------
+Opening door 4
+The room is dark.
+There are doors labeled with numbers  2 5 6 7
+There is $238 of silver on the floor in front of you.
+Your health status: 522/750 (70%)
+
+A monster rushes towards you!
+Prepare for battle!
+Command? attack
+-------------------------------------------------------------
+idqLQ[Wotb5XU+E}K='5
+You struck the monster with your keyboard, dealing 126 damage points!
+The monster loses 42% Health. Monster's health status: 173/299 (58%)
+The monster deals 66 damage points!
+You lose 9% Health. Your health status: 456/750 (61%)
+Command? attack
+-------------------------------------------------------------
+Your weak sight prevents you from hitting the monster.
+The monster deals 66 damage points!
+You lose 9% Health. Your health status: 390/750 (52%)
+Command? attack
+-------------------------------------------------------------
+Your weak sight prevents you from hitting the monster.
+The monster deals 79 damage points!
+You lose 11% Health. Your health status: 311/750 (41%)
+Command? attack
+-------------------------------------------------------------
+43rOy!AY+c>U}rnr^Z'j
+You struck the monster with your keyboard, dealing 138 damage points!
+The monster loses 46% Health. Monster's health status: 35/299 (12%)
+The monster deals 74 damage points!
+You lose 10% Health. Your health status: 237/750 (32%)
+Command? attack
+-------------------------------------------------------------
+"4+%(?m*yxUy;M^R^Pd)
+You struck the monster with your keyboard, dealing 144 damage points!
+The monster loses 12% Health. Monster's health status: 0/299 (0%)
+-------------------------------------------------------------
+The monster has been defeated!
+The monster drops $14 in silver
+Command? pickup silver
+-------------------------------------------------------------
+You pick up the silver, increasing your silver to $793
+The room is dark.
+There are doors labeled with numbers  2 5 6 7
+Your health status: 237/750 (32%)
+Command? open 6
+-------------------------------------------------------------
+Opening door 6
+This room is getting smaller and smaller while you move forward. You decide to go back.
+There is a door labeled with the number  4
+There is $405 of silver on the floor in front of you.
+There are glasses on the floor in front of you.
+Your health status: 237/750 (32%)
+Command? pickup glasses
+-------------------------------------------------------------
+You acquire glasses! Now you can see monsters very well. Your accuracy increases to 100%
+This room is getting smaller and smaller while you move forward. You decide to go back.
+There is a door labeled with the number  4
+There is $405 of silver on the floor in front of you.
+Your health status: 237/750 (32%)
+Command? pickup silver
+-------------------------------------------------------------
+You pick up the silver, increasing your silver to $1198
+This room is getting smaller and smaller while you move forward. You decide to go back.
+There is a door labeled with the number  4
+Your health status: 237/750 (32%)
+Command? rest
+-------------------------------------------------------------
+You decide to stop and have a rest...
+Your health increases by 10%. Your health status: 312/750 (42%)
+Command? rest
+-------------------------------------------------------------
+You decide to stop and have a rest...
+Your health increases by 10%. Your health status: 387/750 (52%)
+Command? rest
+-------------------------------------------------------------
+You decide to stop and have a rest...
+Your health increases by 10%. Your health status: 462/750 (62%)
+Command? rest
+-------------------------------------------------------------
+You decide to stop and have a rest...
+Your health increases by 10%. Your health status: 537/750 (72%)
+Command? rest
+-------------------------------------------------------------
+You decide to stop and have a rest...
+Your health increases by 10%. Your health status: 612/750 (82%)
+Command? rest
+-------------------------------------------------------------
+You decide to stop and have a rest...
+Your health increases by 10%. Your health status: 687/750 (92%)
+Command? open 2
+You can't find the door with number 2.
+Command? open 3
+You can't find the door with number 3.
+Command? open 4
+-------------------------------------------------------------
+Opening door 4
+The room is dark.
+There are doors labeled with numbers  2 5 6 7
+Your health status: 687/750 (92%)
+
+A monster rushes towards you!
+Prepare for battle!
+Command? attack
+-------------------------------------------------------------
+7TB!tqE!WI ^AIoJle%+
+You struck the monster with your keyboard, dealing 144 damage points!
+The monster loses 100% Health. Monster's health status: 0/135 (0%)
+-------------------------------------------------------------
+The monster has been defeated!
+The monster drops $26 in silver
+Command? open 7
+-------------------------------------------------------------
+Opening door 7
+Everything here is covered with ice. You are surprised that water could make its way through these undergrounds.
+There are doors labeled with numbers  4 8
+There is $384 of silver on the floor in front of you.
+There is a keyboard on the floor in front of you.
+Your health status: 687/750 (92%)
+Command? selfinfo
+-------------------------------------------------------------
+Your health status: 687/750 (92%)
+You have: $1198 silver, keyboard, glasses
+You are in room 7
+
+Command? open 8
+-------------------------------------------------------------
+Opening door 8
+Now you know where the water was coming from. There is dim light on the other side of the room.
+There is a door labeled with the number  7
+Your health status: 687/750 (92%)
+Command? search
+-------------------------------------------------------------
+You see the exit and try to approach it. You notice two guardians standing side by side and blocking the passage. The guardians demand $1000 silver  from you. If you pay, they will let you out.
+1. Pay
+2. Fight
+3. Return back
+Your action? 1
+-------------------------------------------------------------
+The guardians are impressed with your generosity and refuse to take silver.
+You are accompanied to the exit. Your quest has ended!
+You have $1198 silver in total.
+

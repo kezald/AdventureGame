@@ -1,0 +1,56 @@
+8
+1
+@description
+You are alone in a cold room. It is very silent...  
+@connect
+2
+@items
+
+2
+@description
+You are in a room with a single window that cannot be opened.
+@connect
+1,3,4
+@items
+currency
+3
+@description
+The ceiling is low in this room and it feels warm.
+@connect
+2
+@items
+primary weapon,currency
+4
+@description
+The room is dark.
+@connect
+2,5,6,7
+@items
+currency
+5
+@description
+You are in a massive room with a very high ceiling.
+@connect
+4
+@items
+secondary weapon
+6
+@description
+This room is getting smaller and smaller while you move forward. You decide to go back.
+@connect
+4
+@items
+secondary weapon,currency
+7
+@description
+Everything here is covered with ice. You are surprised that water could make its way through these undergrounds.
+@connect
+4,8
+@items
+currency,primary weapon
+8
+@description
+Now you know where the water was coming from. There is dim light on the other side of the room.
+@connect
+7
+@items

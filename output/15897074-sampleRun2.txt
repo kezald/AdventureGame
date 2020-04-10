@@ -1,0 +1,125 @@
+Initialising game map -- number of rooms: 8
+-------------------------------------------------------------
+Select a class:
+1. Computer Programmer
+2. Warrior
+Your choice? 2
+Now you are a Warrior!
+-------------------------------------------------------------
+You are alone in a cold room. It is very silent...  
+There is a door labeled with the number  2
+Your health status: 750/750 (100%)
+Command? open 2
+-------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+There is $422 of silver on the floor in front of you.
+Your health status: 750/750 (100%)
+Command? pickup silver
+-------------------------------------------------------------
+You pick up the silver, increasing your silver to $422
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+Your health status: 750/750 (100%)
+Command? open 4
+-------------------------------------------------------------
+Opening door 4
+The room is dark.
+There are doors labeled with numbers  2 5 6 7
+There is $309 of silver on the floor in front of you.
+Your health status: 750/750 (100%)
+
+A monster rushes towards you!
+Prepare for battle!
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 32 damage points!
+The monster loses 12% Health. Monster's health status: 234/266 (88%)
+The monster deals 66 damage points!
+You lose 9% Health. Your health status: 684/750 (91%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 45 damage points!
+The monster loses 17% Health. Monster's health status: 189/266 (71%)
+The monster deals 78 damage points!
+You lose 10% Health. Your health status: 606/750 (81%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 36 damage points!
+The monster loses 13% Health. Monster's health status: 154/266 (58%)
+The monster deals 83 damage points!
+You lose 11% Health. Your health status: 523/750 (70%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 45 damage points!
+The monster loses 17% Health. Monster's health status: 109/266 (41%)
+The monster deals 68 damage points!
+You lose 9% Health. Your health status: 455/750 (61%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 49 damage points!
+The monster loses 19% Health. Monster's health status: 60/266 (22%)
+The monster deals 77 damage points!
+You lose 10% Health. Your health status: 378/750 (50%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 44 damage points!
+The monster loses 16% Health. Monster's health status: 16/266 (6%)
+The monster deals 72 damage points!
+You lose 10% Health. Your health status: 306/750 (41%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 42 damage points!
+The monster loses 6% Health. Monster's health status: 0/266 (0%)
+-------------------------------------------------------------
+The monster has been defeated!
+The monster drops $36 in silver
+Command? roominfo
+-------------------------------------------------------------
+The room is dark.
+There are doors labeled with numbers  2 5 6 7
+There is $345 of silver on the floor in front of you.
+Your health status: 306/750 (41%)
+Command? open 2
+-------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 4
+Your health status: 306/750 (41%)
+
+A monster rushes towards you!
+Prepare for battle!
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 45 damage points!
+The monster loses 16% Health. Monster's health status: 241/286 (84%)
+The monster deals 76 damage points!
+You lose 10% Health. Your health status: 230/750 (31%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 44 damage points!
+The monster loses 15% Health. Monster's health status: 197/286 (69%)
+The monster deals 63 damage points!
+You lose 8% Health. Your health status: 167/750 (22%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 41 damage points!
+The monster loses 14% Health. Monster's health status: 156/286 (54%)
+The monster deals 62 damage points!
+You lose 8% Health. Your health status: 105/750 (14%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 38 damage points!
+The monster loses 13% Health. Monster's health status: 118/286 (41%)
+The monster deals 69 damage points!
+You lose 9% Health. Your health status: 36/750 (5%)
+Command? attack
+-------------------------------------------------------------
+You struck the monster with your bare hands, dealing 38 damage points!
+The monster loses 13% Health. Monster's health status: 80/286 (28%)
+The monster deals 65 damage points!
+You lose 5% Health. Your health status: 0/750 (0%)
+-------------------------------------------------------------
+You did not survive.
+End of game :)
